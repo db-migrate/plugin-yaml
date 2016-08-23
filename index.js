@@ -20,7 +20,7 @@ module.exports = {
 
     delete module.exports.loadPlugin;
   },
-  name: 'test',
+  name: 'yaml',
   hooks: [
     'init:config:overwrite:require'
   ]
