@@ -1,0 +1,32 @@
+{
+  "name": "db-migrate-plugin-yaml",
+  "version": "1.0.0",
+  "description": "A yaml configuration plugin for db-migrate.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/db-migrate/plugin-yaml.git"
+  },
+  "keywords": [
+    "db-migrate",
+    "dbmigrate",
+    "yaml",
+    "configuration",
+    "plugin",
+    "config",
+    "addon",
+    "addin"
+  ],
+  "author": "Tobias Gurtzick <magic@wizardtales.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/db-migrate/plugin-yaml/issues"
+  },
+  "homepage": "https://github.com/db-migrate/plugin-yaml#readme",
+  "dependencies": {
+    "js-yaml": "^3.6.1"
+  }
+}
