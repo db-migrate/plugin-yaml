@@ -1,6 +1,6 @@
 {
   "name": "db-migrate-plugin-yaml",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A yaml configuration plugin for db-migrate.",
   "main": "index.js",
   "scripts": {
